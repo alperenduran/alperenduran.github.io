@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hi! I am 20-years-old student from Istanbul. I am a student at Istanbul Bilgi University. Currently working in [Yemeksepeti](yemeksepeti.com).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like Apple products a lot, so I started to develop iOS apps.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alperenduran@outlook.com](mailto:alperenduran@outlook.com)
